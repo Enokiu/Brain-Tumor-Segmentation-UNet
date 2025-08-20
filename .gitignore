@@ -1,0 +1,9 @@
+brain_tumor_dataset/
+scripts/__pycache__/
+
+# models
+models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
