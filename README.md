@@ -52,3 +52,12 @@ Overlay visualizations are saved under `reports/unet_base/` and `reports/smp_fin
 ### Training Curves
 
 ![Loss & Dice Curves](reports/plots/unet_vs_smp.png)
+
+
+## License
+
+This project is distributed under the **MIT License**.  
+See the [LICENSE](LICENSE) file for the full text.
+
+© 2025 Saniye Ogul.
+
