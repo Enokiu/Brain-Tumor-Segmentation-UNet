@@ -36,7 +36,7 @@ All steps are documented and visualized:
 
 The scratch U-Net converged more steadily and generalized better than the pretrained variant.
 
-- **Scratch U-Net:** Dice ≈ 0.874, IoU ≈ 0.814  
+- **Scratch U-Net:** Dice ≈ 0.874, IoU ≈ 0.814
 - **Pretrained (ResNet-34 via SMP):** Dice ≈ 0.855, IoU ≈ 0.795
 
 Overlay visualizations are saved under `reports/unet_base/` and `reports/smp_finetune/`.
@@ -56,7 +56,7 @@ Overlay visualizations are saved under `reports/unet_base/` and `reports/smp_fin
 
 ## License
 
-This project is distributed under the **MIT License**.  
+This project is distributed under the **MIT License**.
 See the [LICENSE](LICENSE) file for the full text.
 
 © 2025 Saniye Ogul.
